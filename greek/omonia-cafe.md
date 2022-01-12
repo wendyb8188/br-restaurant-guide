@@ -4,5 +4,5 @@
 Select a restaurant:
 ## [Omonia Cafe](http://omoniacafe.com/)
 ---
-[Back to Asian](asian.md)  
+[Back to Greek](gree.md)  
 [Start Over](../home.md)
