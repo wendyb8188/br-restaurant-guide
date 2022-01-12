@@ -1,5 +1,5 @@
 # Bay Ridge Restaurant Guide
-## Asian --> [Japanese](japanese.md)
+## Asian --> Japanese
 ---
 Select a restaurant:
 ## [Bayridge Sushi](http://www.brsushi.com/)
